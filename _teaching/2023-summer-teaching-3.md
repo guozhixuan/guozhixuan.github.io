@@ -1,7 +1,7 @@
 ---
 title: "Redbird MPhil Challenge Camp"
 collection: teaching
-type: "Summer Camp"
+type: "Postgraduate Project"
 permalink: /teaching/2021-spring-teaching-1
 venue: "The Hong Kong University of Science and Technology (Guangzhou)"
 date: 2023-07-03
