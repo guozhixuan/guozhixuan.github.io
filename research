@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Work in progress
-permalink: /research/
+permalink: /Research/
+title: "Works in progress"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
 ---
-
-**Working in progress**
 
 - Extreme Heat, Corporate Investment and Adaptation Strategy
 - Green Connections, Tainted Perceptions: ’Greenwashing by Association’ of Interlocking Directorates
