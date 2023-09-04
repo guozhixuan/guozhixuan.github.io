@@ -1,9 +1,9 @@
 ---
 title: "EC3529 Econometrics"
 collection: teaching
-type: "Tutorial"
+type: "Class Representative"
 permalink: /teaching/2021-spring-teaching-1
-venue: "University of Aberdeen, Business School"
+venue: "University of Aberdeen"
 date: 2021-01-11
 location: "Aberdeen, United Kingdom"
 ---
