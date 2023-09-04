@@ -1,9 +1,9 @@
 ---
 title: "Management"
 collection: teaching
-type: "Undergraduate course"
+type: "TA for Prof. Qiang Liu and Dr. Anne Muchemi"
 permalink: /teaching/2019-fall-teaching-1
-venue: "Shandong Normal University, School of Economics"
+venue: "Shandong Normal University"
 date: 2019-09-02
 location: "Jinan, China"
 ---
