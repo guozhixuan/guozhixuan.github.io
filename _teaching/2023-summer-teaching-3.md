@@ -1,23 +1,11 @@
 ---
-title: "EC3529 Econometrics"
+title: "Redbird MPhil Challenge Camp"
 collection: teaching
-type: "Undergraduate Tutorial"
+type: "Summer Camp"
 permalink: /teaching/2021-spring-teaching-1
-venue: "University of Aberdeen"
-date: 2021-01-11
-location: "Aberdeen, United Kingdom"
+venue: "The Hong Kong University of Science and Technology (Guangzhou)"
+date: 2023-07-03
+location: "Guangzhou, China"
 ---
 
-I served as the Class Representative for Prof. Alexandros Zangelidis, mediating faculty-student communications and overseeing curriculum adjustments in EC3529 Econometrics.
-
-Heading 1
-======
-Served as primary liaison between faculty and students.
-
-Heading 2
-======
-Enhanced understanding and teaching of Econometrics.
-
-Heading 3
-======
-Facilitated curriculum feedback and improvements.
+I took on the role of Teaching Assistant (TA) for the interdisciplinary project, "Inspiration Lab: Escape from the Information Cocoon." Utilizing design thinking principles, I guided students through the creative process, ensuring they effectively tackled challenges and fostered innovative solutions. Beyond mentoring, I monitored their day-to-day activities, offering feedback and assigning grades based on their contributions and performance.
