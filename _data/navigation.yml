@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Current Research"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "About me"
+    url: /_pages/about.md
     
   - title: "CV"
     url: /assets/CV_ZXGUO.pdf
