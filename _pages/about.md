@@ -16,4 +16,4 @@ In my research, I seek to understand how organizations make decisions, behave, a
 
 As I aspire to join a doctoral program, my goal is to identify and address pressing issues in our field, synthesize current research to further academic discourse, and collaborate with fellow scholars to drive both academic insights and practical solutions in our shared domains.
 
-Please access my updated CV here: CV
+Please view my updated CV here: [../assets/CV_ZXGUO.pdf]
