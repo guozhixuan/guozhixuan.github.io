@@ -1,5 +1,5 @@
 ---
-title: "Redbird MPhil Challenge Camp"
+title: "2023 Redbird MPhil Challenge Camp"
 collection: teaching
 type: "Postgraduate Project"
 permalink: /teaching/2021-spring-teaching-1
