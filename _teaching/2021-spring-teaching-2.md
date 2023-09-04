@@ -9,15 +9,3 @@ location: "Aberdeen, United Kingdom"
 ---
 
 I served as the Class Representative for Prof. Alexandros Zangelidis, mediating faculty-student communications and overseeing curriculum adjustments in EC3529 Econometrics.
-
-Heading 1
-======
-Served as primary liaison between faculty and students.
-
-Heading 2
-======
-Enhanced understanding and teaching of Econometrics.
-
-Heading 3
-======
-Facilitated curriculum feedback and improvements.
