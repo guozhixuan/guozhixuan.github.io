@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Current Research"
-    url: /publications/
+    url: /guide/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /guide/
     
   - title: "CV"
     url: /assets/CV_ZXGUO.pdf
