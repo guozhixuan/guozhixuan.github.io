@@ -1,5 +1,5 @@
 ---
-title: "Management"
+title: "2019-2020-1 Management"
 collection: teaching
 type: "TA for Prof. Qiang Liu and Dr. Anne Muchemi"
 permalink: /teaching/2019-fall-teaching-1
