@@ -1,5 +1,5 @@
 ---
-title: "2019-2020-1 Management"
+title: "Principles of Management "
 collection: teaching
 type: "Undergraduate Lecture"
 permalink: /teaching/2019-fall-teaching-1
