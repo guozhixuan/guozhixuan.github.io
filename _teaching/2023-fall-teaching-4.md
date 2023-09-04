@@ -1,23 +1,11 @@
 ---
-title: "EC3529 Econometrics"
+title: "UCUG1000 Critical Thinking and Data Literacy in Entrepreneurship"
 collection: teaching
-type: "Undergraduate Tutorial"
+type: "Undergraduate Lecture"
 permalink: /teaching/2021-spring-teaching-1
-venue: "University of Aberdeen"
-date: 2021-01-11
-location: "Aberdeen, United Kingdom"
+venue: "The Hong Kong University of Science and Technology (Guangzhou)"
+date: 2023-09-04
+location: "Guangzhou, China"
 ---
 
-I served as the Class Representative for Prof. Alexandros Zangelidis, mediating faculty-student communications and overseeing curriculum adjustments in EC3529 Econometrics.
-
-Heading 1
-======
-Served as primary liaison between faculty and students.
-
-Heading 2
-======
-Enhanced understanding and teaching of Econometrics.
-
-Heading 3
-======
-Facilitated curriculum feedback and improvements.
+I acted as a TA for Prof. Yun Hou in Module 3 of UCUG1000, where I managed attendance, steered class discussions, and graded analytical writings and quizzes, all while aiding in the dissemination of critical thinking and data literacy skills over a span of four weeks.
