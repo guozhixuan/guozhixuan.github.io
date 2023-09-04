@@ -1,4 +1,4 @@
-# main:
+ main:
 #   - title: About Me
 #     url: /
 
@@ -8,5 +8,5 @@
 #   - title: "Teaching"
 #     url: /teaching/
     
-#   - title: "CV"
-#     url: /assets/CV_ZXGUO.pdf
+   - title: "CV"
+     url: /assets/CV_ZXGUO.pdf
