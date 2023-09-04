@@ -12,6 +12,6 @@ Hello! I’m Zhixuan, an MPhil student at the Urban Governance and Design (UGOD)
 
 In my research, I seek to understand how organizations make decisions, behave, and adapt to our changing world — especially with challenges like climate change and the need for sustainable development. Methodologically, I combine different theoretical and empirical techniques, ranging from causal inference and advanced data analytics — sourcing from text and satellite images — to perspectives from theories like the resource-based view. With an ever-curious mindset, I remain receptive to new research avenues.
 
-As I aspire to join a doctoral program, my goal is to identify and address pressing issues in our field, synthesize current research to further academic discourse, and collaborate with fellow scholars to drive both academic insights and practical solutions in our shared domains.
+I am currently seeking a spot in a distinguished doctoral program, driven by a passion to address pressing academic challenges and enrich current research. Eager to collaborate with peers, I aim to meld theoretical insights with practical solutions, furthering both academic discourse and real-world impact.
 
 Please view my updated CV here: [CV](../assets/CV_ZXGUO.pdf).
