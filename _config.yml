@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhixuan Guo / Personal Homepage"
+title                    : "Zhixuan Guo"
 title_separator          : "-"
 name                     : &name "Zhixuan Guo"
 description              : &description "MPhil Student at HKUST(GZ)"
