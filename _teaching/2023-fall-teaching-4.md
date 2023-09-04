@@ -8,4 +8,4 @@ date: 2023-09-04
 location: "Guangzhou, China"
 ---
 
-I acted as a TA for Prof. Yun Hou in Module 3 of UCUG1000, where I managed attendance, steered class discussions, and graded analytical writings and quizzes, all while aiding in the dissemination of critical thinking and data literacy skills over a span of four weeks.
+I acted as a Teaching Assistant (TA) for Prof. Yun Hou in Module 3 of UCUG1000, where I managed attendance, steered class discussions, and graded analytical writings and quizzes, all while aiding in the dissemination of critical thinking and data literacy skills over a span of four weeks.
