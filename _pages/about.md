@@ -14,4 +14,4 @@ In my research, I explore how organizations make decisions, adapt, and respond t
 
 I am currently seeking a spot in a distinguished doctoral program, driven by a passion to address pressing academic challenges and enrich current research. Eager to collaborate with peers, I aim to meld theoretical insights with practical solutions, furthering both academic discourse and real-world impact.
 
-Please view my updated CV [here](../assets/CV_ZhixuanGuo.pdf).
+Please view my updated CV [here](../assets/CV_Zhixuan_Guo__Sep_2023_.pdf).
