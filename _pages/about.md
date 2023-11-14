@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Zhixuan GUO (郭志轩)"
 author_profile: true
 redirect_from: 
   - /about/
