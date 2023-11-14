@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an MPhil student at The Hong Kong University of Science and Technology (Guangzhou), Society Hub, Urban Governance and Design Thrust. For more information about the university, feel free to visit their official website [here](https://www.hkust-gz.edu.cn/).
+Hello! I am an MPhil student at The Hong Kong University of Science and Technology (Guangzhou), specializing in Urban Governance and Design within [Society Hub](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/). Before this, I earned my undergraduate degree in Economics and Finance.
 
 My research interests focuses primarily on firm-environment interactions, exploring how domestic and international strategies of firms interplay with societal and natural environmental issues. This focus encompasses my interests in corporate governance, corporate social responsibility and sustainability, business economics and environmental economics. Methodologically, I combine different theoretical and empirical techniques, including causal inference, advanced data analytics, and perspectives derived from theories, to conduct rigorous statistical analysis and empirically test my theoretical arguments. This comprehensive approach is essential to my study of how organizations adapt and respond to global challenges, such as climate change and sustainable development.
 
